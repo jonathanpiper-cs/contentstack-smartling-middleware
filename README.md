@@ -1,5 +1,3 @@
----
-
 # ⚠️ DISCLAIMER — READ THIS FIRST ⚠️
 
 **THIS PROJECT IS A PROOF OF CONCEPT.**
@@ -10,8 +8,6 @@
 - Use at your own risk. No warranties, no guarantees.
 
 **Do not deploy this to production. Treat it as experimental / demo code only.**
-
----
 
 ## What this project does
 
